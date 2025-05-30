@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "15EHhBF3EP4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daavi\\source\\repos\\PlataformaEducativa\\PlataformaEducativa\\PlataformaEducativa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daavi\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.204\\microsoft.net.sdk.compilers.toolset.9.0.204.nupkg.sha512",
+    "C:\\Users\\daavi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\daavi\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\daavi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\daavi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.16\\microsoft.netcore.app.host.win-x64.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
